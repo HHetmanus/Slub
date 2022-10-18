@@ -127,3 +127,25 @@ body {font-family: Helvetica, Arial, sans-serif;
 					    top: 140%; 
 						left: 15%; 
 						text-align: center; }
+.dol {
+    display: grid;
+    grid-template: 300px/ 1fr 1fr 1fr;
+    gap:10px;
+    width: 80%;
+    margin: 40px auto;
+    text-align: center;
+    
+}
+
+.box img {
+    height: 20%;
+    width: auto;
+}
+footer {
+    background-color: beige;
+    font-size: 1.7rem;
+    font-family: "Allura";
+    color: black;
+    text-align: center;
+   padding: 1px;
+}
