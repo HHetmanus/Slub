@@ -130,16 +130,29 @@ body {font-family: Helvetica, Arial, sans-serif;
 .dol {
     display: grid;
     grid-template: 300px/ 1fr 1fr 1fr;
-    gap:10px;
+    justify-content: center;
     width: 80%;
-    margin: 40px auto;
+    margin: auto;
     text-align: center;
+    padding-top: 40px;
+    font-family: "Lato";
+    
+    
     
 }
-
+.box {
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
 .box img {
-    height: 20%;
+    height: 15%;
     width: auto;
+    margin: auto;
+}
+
+.box p {
+    text-align: center;
 }
 footer {
     background-color: beige;
