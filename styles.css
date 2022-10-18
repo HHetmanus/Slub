@@ -140,18 +140,18 @@ body {font-family: Helvetica, Arial, sans-serif;
     
     
 }
-.box {
+.box2 {
     width: 250px;
     height: 250px;
     margin: auto;
 }
-.box img {
+.box2 img {
     height: 15%;
     width: auto;
     margin: auto;
 }
 
-.box p {
+.box2 p {
     text-align: center;
 }
 footer {
