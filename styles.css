@@ -191,9 +191,9 @@ body {font-family: Helvetica, Arial, sans-serif;
  .dove {
 	grid-column: 7/ span 2;
 }
-.dove > img {
-  object-fit: cover;
-  width: 100%;
+.dove  img {
+  background-size: cover; 
   height: 100%;
+  width: auto;
 }
 
