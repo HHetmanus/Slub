@@ -181,11 +181,11 @@ footer {
 	display: grid;	
 	grid-template-columns: repeat (8, 1fr);
 }
-.container img {
+/*.container img {
 	
 	height: 50px;
 	width: 100px;
 	margin:auto;
 	opacity: 0.5;
 	
-}
+}*/
