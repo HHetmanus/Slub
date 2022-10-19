@@ -208,4 +208,18 @@ body {font-family: Helvetica, Arial, sans-serif;
 	 
 }
 
+@media only screen and (max-width:480px) {
+
+	.banner {
+		min-height: 300px;
+	}
+	.nav a{
+		font-family: "Lato";
+		text-decoration: none;
+		color: white;
+		padding: 1rem 0.5rem;
+		font-size: 0.5rem;
+		}
+
+}
 
