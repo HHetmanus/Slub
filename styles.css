@@ -147,6 +147,7 @@ body {font-family: Helvetica, Arial, sans-serif;
     display: grid;
     grid-template: 300px/ 1fr 1fr 1fr;
     justify-content: center;
+    align-items: end;
     width: 80%;
     margin: auto;
     text-align: center;
