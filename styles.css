@@ -231,7 +231,10 @@ body {font-family: Helvetica, Arial, sans-serif;
 		display: flex;
   		flex-direction: column;
 		max-width: 480px;
-		
 	}
+	.box p {
+    		text-indent: 2em;
+		max-width:480px;
+		}
 }
 
