@@ -230,11 +230,9 @@ body {font-family: Helvetica, Arial, sans-serif;
 	.main {
 		display: flex;
   		flex-direction: column;
-		max-width: 400px;
+		width: 80%;
+		margin: auto;
 	}
-	.box p {
-    		text-indent: 2em;
-		
-		}
+	
 }
 
