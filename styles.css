@@ -174,8 +174,7 @@ footer {
     font-size: 1.7rem;
     font-family: "Allura";
     color: black;
-    text-align: center;
-   padding: 1px;
+    
 }
 .container {
 	display: grid;	
