@@ -192,6 +192,6 @@ body {font-family: Helvetica, Arial, sans-serif;
 	grid-column: 7/ span 2;
 }
 .dove img {
-	max-height: 120px;
+	max-height: 100%;
 	width: auto;
 }
