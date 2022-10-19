@@ -19,7 +19,7 @@ body {font-family: Helvetica, Arial, sans-serif;
 .container {
     position: absolute;
     margin: 1.5rem 0rem;
-    width: auto;
+    min-width: 650px;
 
 }
 
