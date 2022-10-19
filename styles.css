@@ -227,5 +227,9 @@ body {font-family: Helvetica, Arial, sans-serif;
 		   
 		    margin: 0rem;
 		}
+	.main .box{
+		display: block;
+		
+	}
 }
 
