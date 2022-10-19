@@ -186,7 +186,7 @@ body {font-family: Helvetica, Arial, sans-serif;
     
 }
  .sign {
-	justify-self: start;
+	align-self: end;
 	grid-column: 4/ span 2;
 }
 
