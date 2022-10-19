@@ -181,6 +181,7 @@ footer {
 	display: grid;	
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	grid-template-rows: 120px;
+	justify-content: center;
 }
  .sign {
 	grid-column: 2/ span 2;
