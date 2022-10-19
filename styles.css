@@ -176,6 +176,7 @@ footer {
     color: black;
     
 }
+
 .bottom {
 	display: grid;	
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -187,4 +188,8 @@ footer {
 
  .dove {
 	grid-column: 7/ span 2;
+}
+.dove img {
+	max-height: 120px;
+	width: auto;
 }
