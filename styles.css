@@ -17,6 +17,8 @@ body {font-family: Helvetica, Arial, sans-serif;
 }
 
 .container {
+    display: flex;
+    flex-wrap: nowrap;	
     position: absolute;
     margin: 1.5rem 0rem;
     min-width: 650px;
