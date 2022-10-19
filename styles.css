@@ -179,7 +179,7 @@ footer {
 }
 
 footer img {
-	height: 150px;
-	width: 50%;
+	height: 50px;
+	width: auto;
 	margin:auto;
 }
