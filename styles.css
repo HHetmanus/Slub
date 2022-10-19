@@ -177,7 +177,7 @@ body {font-family: Helvetica, Arial, sans-serif;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	grid-template-rows: 120px;
 	justify-content: center;
-	justify-items: center;
+	
 	align-items: center;
 	font-size: 1.3rem;
     	font-family: "Allura";
@@ -186,7 +186,7 @@ body {font-family: Helvetica, Arial, sans-serif;
     
 }
  .sign {
-	justify-items: stretch;
+	justify-self: stretch;
 	grid-column: 2/ span 2;
 }
 
@@ -194,6 +194,7 @@ body {font-family: Helvetica, Arial, sans-serif;
 	 background-image: url("https://us.123rf.com/450wm/juliarstudio/juliarstudio1809/juliarstudio180919536/107904621-%C5%9Blubne-dwie-go%C5%82%C4%99bie-ikona-kresk%C3%B3wka.jpg?ver=6");
 	 background-size: cover;
 	 grid-column: 7/ span 2;
+	 justify-self: stretch;
 	 height: 100%;
 	 width: 50%;
 	 opacity: 0.5;
