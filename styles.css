@@ -177,6 +177,7 @@ body {font-family: Helvetica, Arial, sans-serif;
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	grid-template-rows: 120px;
 	justify-content: center;
+	justify-items: center;
 	align-items: center;
 	font-size: 1.3rem;
     	font-family: "Allura";
