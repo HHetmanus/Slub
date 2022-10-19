@@ -178,13 +178,14 @@ footer {
    padding: 1px;
 }
 .container {
-	position: relative;	
+	display: grid;	
+	grid-template-columns: repeat (8, 1fr);
 }
 .container img {
-	position: absolute;
+	
 	height: 50px;
 	width: 100px;
 	margin:auto;
 	opacity: 0.5;
-	float: right;
+	
 }
