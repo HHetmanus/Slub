@@ -182,11 +182,10 @@ footer {
 	grid-template-columns: repeat (8, 1fr);
 	grid-template-rows: 120px;
 }
-/*.container img {
-	
-	height: 50px;
-	width: 100px;
-	margin:auto;
-	opacity: 0.5;
-	
-}*/
+.container .sign {
+	grid-column: 2/ span 2;
+}
+
+.container .dove {
+	grid-column: 7/ span 2;
+}
