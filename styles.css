@@ -7,6 +7,8 @@ body {font-family: Helvetica, Arial, sans-serif;
 
 
 .banner {
+    display: flex;
+    flex-wrap: nowrap;	
     background-image: url("https://static.kb.pl/media/uploads/media_image/original/wpis/3954/Slub-koscielny.jpg");
     min-height: 500px;
     background-position: center;
@@ -27,6 +29,8 @@ body {font-family: Helvetica, Arial, sans-serif;
 
 
 .nav {
+    display: flex;
+    flex-wrap: nowrap;	
     overflow: hidden;
     background-color: #532915;
     width:100%;
