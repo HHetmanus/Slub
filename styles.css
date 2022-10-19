@@ -192,6 +192,7 @@ body {font-family: Helvetica, Arial, sans-serif;
 	 background-image: url("https://us.123rf.com/450wm/juliarstudio/juliarstudio1809/juliarstudio180919536/107904621-%C5%9Blubne-dwie-go%C5%82%C4%99bie-ikona-kresk%C3%B3wka.jpg?ver=6")center center;
 	 background-size: cover;
 	 grid-column: 7/ span 2;
+	 width: 50%;
 	 
 }
 
