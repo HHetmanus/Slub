@@ -111,6 +111,13 @@ body {font-family: Helvetica, Arial, sans-serif;
   content: ' \007E ';
 }
 
+#narze:after {
+  content: ' \007E';
+}
+
+#narze:before {
+  content: ' \007E ';
+}
 .second h2{
     text-align: center;
 }
