@@ -108,7 +108,7 @@ body {font-family: Helvetica, Arial, sans-serif;
 }
 
 #nasza:before {
-  content: ' \007E ';
+  content: ' \007E\ ';
 }
 
 #narze:after {
@@ -116,7 +116,7 @@ body {font-family: Helvetica, Arial, sans-serif;
 }
 
 #narze:before {
-  content: ' \007E ';
+  content: ' \007E\ ';
 }
 .second h2{
     text-align: center;
