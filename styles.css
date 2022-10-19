@@ -233,6 +233,9 @@ body {font-family: Helvetica, Arial, sans-serif;
 		width: 80%;
 		margin: auto;
 	}
+	.and p {
+		text-align: justify;
+	}
 	
 }
 
