@@ -1,5 +1,6 @@
 body {font-family: Helvetica, Arial, sans-serif;
       font-size: 16px;
+      background-color: #e2e2e2;	
     
 }
 * {box-sizing: border-box;}
@@ -169,13 +170,7 @@ body {font-family: Helvetica, Arial, sans-serif;
 .box2 p {
     text-align: center;
 }
-footer {	
-    background-color: beige;
-    font-size: 1.7rem;
-    font-family: "Allura";
-    color: black;
-    
-}
+
 
 .bottom {
 	display: grid;	
@@ -185,6 +180,8 @@ footer {
 	align-items: center;
 	font-size: 1.3rem;
     	font-family: "Allura";
+	color: #4e4e4e;
+	border-top: 1px solid #4e4e4e;
     
 }
  .sign {
