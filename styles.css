@@ -182,8 +182,8 @@ footer {
 	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 	grid-template-rows: 120px;
 	justify-content: center;
-	align-self: center;
-	font-size: 1rem;
+	align-items: center;
+	font-size: 1.3rem;
     	font-family: "Allura";
     
 }
