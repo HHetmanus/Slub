@@ -180,6 +180,7 @@ footer {
 .container {
 	display: grid;	
 	grid-template-columns: repeat (8, 1fr);
+	grid-template-rows: 120px;
 }
 /*.container img {
 	
