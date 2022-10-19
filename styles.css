@@ -235,6 +235,7 @@ body {font-family: Helvetica, Arial, sans-serif;
 	}
 	.and p {
 		text-align: justify;
+		width: 80%;
 	}
 	
 }
