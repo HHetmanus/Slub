@@ -260,6 +260,10 @@ body {font-family: Helvetica, Arial, sans-serif;
 	    
 
 	}
+	
+	.dol {
+		width: 95%;
+	}
 	.dol p {
 		font-size:0.8rem;
 	}
