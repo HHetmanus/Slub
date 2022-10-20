@@ -250,6 +250,11 @@ body {font-family: Helvetica, Arial, sans-serif;
 		display: flex;
 		flex-direction: column;
 	}
+	.gallery img{
+	    width: 80%;
+	    
+
+	}
 	
 }
 
