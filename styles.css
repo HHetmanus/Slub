@@ -249,9 +249,12 @@ body {font-family: Helvetica, Arial, sans-serif;
 	.gallery {
 		display: flex;
 		flex-direction: column;
+		width: 80%;
+		background-color: white;
 	}
 	.gallery img{
-	    width: 80%;
+	    width: 100;
+	    padding: 0rem;
 	    
 
 	}
