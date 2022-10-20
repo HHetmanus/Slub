@@ -240,6 +240,11 @@ body {font-family: Helvetica, Arial, sans-serif;
 	.and h2 {
 		text-align: center;
 	}
+	.box img {
+		margin-top:20px;
+		max-height: 250px;
+		margin: auto;
+	}
 	
 }
 
