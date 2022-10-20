@@ -235,6 +235,12 @@ body {font-family: Helvetica, Arial, sans-serif;
 		text-align: justify;
 		
 	}
-	
+	.and h2 {
+		text-align: center;
+	}
+	.and {
+		width: 80%;
+		margin: auto;
+	}
 }
 
